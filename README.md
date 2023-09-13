@@ -12,9 +12,9 @@
 
 Here are some of the projects I've worked on:
 
-- The Wall App (link-to-project-1): This is a fullstack web app using **React and NodeJs with SQLite** where users can register and make posts on the wall. Features a full CRUD API. 
-- Zombie Foodtruck(link-to-project-2): This is a fullstack web app using **React and Springboot along with PostgresQL** where users can register, log in and create orders for the foodtruck. Featuring full CRUD API.
-- Todo App(link-to-project-3): This is a **React app** that allows users to manage a todo list by creating, todo items that can be marked complete. 
+- The Wall App (<a href="https://github.com/vportela/wall-app-frontend">front end</a> && <a href="https://github.com/vportela/wall-app-backend">back end</a>): This is a fullstack web app using **React and NodeJs with SQLite** where users can register and make posts on the wall. Features a full CRUD API. 
+- Zombie Foodtruck (<a href="https://github.com/aMotherFox/food-truck-frontend">front end</a> && <a href="https://github.com/aMotherFox/food-truck-backend">back end</a>): This is a fullstack web app using **React and Springboot along with PostgresQL** where users can register, log in and create orders for the foodtruck. Featuring full CRUD API. Created with two other self study peers.
+- Todo App(<a href="https://github.com/vportela/victoriaPortfolio/tree/main/javaScript/react/todo-app-react">react app</a>): This is a **React app** that allows users to manage a todo list by creating, todo items that can be marked complete. 
 
 ## Skills
 
