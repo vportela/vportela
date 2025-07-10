@@ -3,9 +3,10 @@
  I'm a Full Stack Software Engineer with a past life as a UX Designer. In my free time I enjoy gaming and making art! Welcome to my GitHub profile, where you can find a collection of my projects and contributions.
 
 ## About Me
-- 🖥️ Previously a UX designer who taught herself to code, landing her first role as a fullstack dev in just 6 months. Confirming her passion for programming and product development!
+- 🖥️ Previously a UX designer who taught herself to code in 6 months and entered the industry as a fullstack dev. 
 - 🌱 Currently learning C
-- 🎓 Working towards a BS in Computer Science full time
+- 🎓 Working towards a BS in Computer Science part time
+
 
 ## Portfolio
 
